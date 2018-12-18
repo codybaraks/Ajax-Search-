@@ -22,3 +22,20 @@ x
 {
     color: #3cba54;
 }
+/*input[type='text'] {*/
+      /*background-image: url(img/search.png) ;*/
+     /*background-position: 9px 2px;*/
+    /*padding: 10px;*/
+
+
+/*}*/
+.photo img {
+    position:absolute;
+    /*margin-left: 65%;*/
+    margin-bottom: 20%;
+    /*right:5px;*/
+
+    width:2%;
+    height:4%;
+    z-index: 2;
+}
