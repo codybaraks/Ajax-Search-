@@ -1,18 +1,33 @@
 [
   {
-    "name":"Angel Lewis",
-    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0d4/2f7/07a3d35.jpg",
-    "location":"Seattle, WA"
+    "name":"Earvin Baraka",
+    "image": "https://i1.wp.com/www.precisioncommunitycollege.org/wp-content/uploads/2018/06/20180612_122833.jpg?resize=293%2C300",
+    "location":"Kenya, NAI"
+  },
+  {
+    "name":"Echa Mbarani",
+    "image": "https://duolingo-images.s3.amazonaws.com/avatars/289424584/d4Vis-GQpd/xlarge",
+    "location":"Kenya, IMAR"
+  },
+   {
+    "name":"Mike Micheni",
+    "image": "https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.0-9/48064127_10215050754034714_7344457087625199616_n.jpg?_nc_cat=107&_nc_ht=scontent.fnbo2-1.fna&oh=cb13b80960eae7f9ae1a31948cc36e2c&oe=5CA930B7",
+    "location":"Nairobi, NAI"
+  },
+  {
+    "name":"Ian Lenkai",
+    "image": "https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.0-9/12033039_898559650230123_8937947261968971429_n.jpg?_nc_cat=103&_nc_ht=scontent.fnbo2-1.fna&oh=0a158ec12743eec4f938ad749f85c37e&oe=5C9F58A3",
+    "location":"Kenya, IMAR"
+  },
+  {
+    "name":"Pst Kevin Tindi",
+    "image": "https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.0-9/11866235_871578502928238_8735832660152548756_n.jpg?_nc_cat=101&_nc_ht=scontent.fnbo2-1.fna&oh=2a3c0a3f86ded8554814724eaa6c81af&oe=5C98FC49",
+    "location":"Kenya, NAI"
   },
   {
     "name":"Justin Dean",
     "image": "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAIMAAAAJGExNTE4OWY4LWU4ODMtNDA2ZS1iNWI1LWNkYmIyOWMyMGQ5Zg.jpg",
     "location":"Muscatine, IA"
-  },
-  {
-    "name":"Earvin Baraka",
-    "image": "https://i1.wp.com/www.precisioncommunitycollege.org/wp-content/uploads/2018/06/20180612_122833.jpg?resize=293%2C300",
-    "location":"Kenya, NAI"
   },
   {
     "name":"Nora Blake",
